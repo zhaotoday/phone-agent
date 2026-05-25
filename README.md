@@ -1,2 +1,3 @@
 - [X-OmniClaw](https://github.com/OPPO-Mente-Lab/X-OmniClaw)
 - [PhoneClaw](https://github.com/kellyvv/PhoneClaw)
+- [MobileAgent](https://github.com/X-PLUG/MobileAgent)
