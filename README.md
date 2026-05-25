@@ -2,3 +2,4 @@
 - [PhoneClaw](https://github.com/kellyvv/PhoneClaw)
 - [MobileAgent](https://github.com/X-PLUG/MobileAgent)
 - [mobilerun](https://github.com/droidrun/mobilerun)
+- [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
